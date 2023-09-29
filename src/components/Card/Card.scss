@@ -1,0 +1,37 @@
+.summary-box{
+    border-radius: 4px;
+    margin-top: 5px;
+    position: fixed;
+    width: 280px;
+    height: 300px;
+    padding: 15px 1000px 0px;
+}
+.summary-title{
+    text-align: center;
+    color: green;
+    margin-bottom: 15px;
+}
+h5{
+    color: rgb(0, 0, 0);
+}
+h6{
+    color: rgb(5, 5, 5);
+}
+
+.checkout-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745; /* Success button color */
+    color: #fff; /* Text color */
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  
+    &:hover {
+      background-color: #218838; /* Hover color (a shade darker) */
+    }
+  }

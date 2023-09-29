@@ -1,0 +1,33 @@
+.header .p-3 h1 {
+    text-align:center;  
+}   
+.header nav{
+    background-color: #1a6600;
+    padding: 5px;
+    line-height: 40px;
+    font-size: 18px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: gray;
+}
+ 
+.search-box{
+    background-color: #1a6600;
+    padding: 10px;
+}
+#search-input{
+    width: 700px;
+    padding: 6px;
+}
+.shipping-card{
+    font-size: 18px;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+}

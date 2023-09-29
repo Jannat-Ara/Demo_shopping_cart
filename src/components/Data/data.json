@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "image": "https://images.pexels.com/photos/7606067/pexels-photo-7606067.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "name": "Official Executive Chair Styles and Exclusive For Smart Office",
+    "price": "50",
+    "categories": "furniture"
+  }, {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/4440214/pexels-photo-4440214.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "name": "Official Executive Chair Styles and Exclusive For Smart Office",
+    "price": "200",
+    "categories": "Bed"
+  }, {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/945688/pexels-photo-945688.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "name": "Official Executive Chair Styles and Exclusive For Smart Office",
+    "price": "300",
+    "categories": "Sofa"
+  }]

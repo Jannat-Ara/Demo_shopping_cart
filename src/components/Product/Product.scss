@@ -1,0 +1,43 @@
+.product-img {
+    height: 200px;
+}
+
+.product-card {
+    width: 260px;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 20px;
+    float: left;
+    border: 1px #1a6600 solid;
+}
+
+.categories {
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+}
+
+.product-title {
+    font-size: 16px;
+    color: grey;
+}
+
+.custom-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: transparent;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.custom-btn-success {
+    color: #28a745;
+    border-color: #28a745;
+}
+
+.icon {
+    margin-right: 8px;
+    font-size: 20px;
+}
